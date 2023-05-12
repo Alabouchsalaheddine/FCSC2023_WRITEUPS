@@ -56,6 +56,9 @@ $StreamWriter.Close()
 ID Scriptblock : 2354b750-2422-42a3-b8c2-4fd7fd36dfe7
 Chemin d'accès : D:\PAYLOAD.PS1
 ```
+![Capture d'écran 2023-05-12 181933](https://github.com/Alabouchsalaheddine/FCSC2023_WRITEUPS/assets/26192792/4009703d-4d81-44a7-a381-fbb8b2b7d7cf)
+
+![Capture d'écran 2023-05-12 180745](https://github.com/Alabouchsalaheddine/FCSC2023_WRITEUPS/assets/26192792/0ea758c0-f8e1-4f0f-8899-8a9f6eaeadac)
 
 The payload file has been given the authorization to be executed
 
@@ -71,6 +74,10 @@ SubjectUserName : cmaltese
 SubjectDomainName : FCSC 
 ProcessId : 0xecc 
 ```
+![Identity](https://github.com/Alabouchsalaheddine/FCSC2023_WRITEUPS/assets/26192792/4472dede-d187-453e-893e-c20405e7ec8b)
+
+![processId](https://github.com/Alabouchsalaheddine/FCSC2023_WRITEUPS/assets/26192792/4c501ae2-34d8-40af-bcbe-8aeed5228acb)
+
 
 We don't need to have the server at the IP address available to reconstruct what was really sent.
 
