@@ -10,6 +10,9 @@ Search for Windows Event Viewer and open it.
 
 Open the Microsoft-Windows-PowerShell4Operational.evtx file.
 
+![Capture d'écran 2023-05-12 024513](https://github.com/Alabouchsalaheddine/FCSC2023_WRITEUPS/assets/26192792/c930a561-6a15-4664-a49d-f1e646f5952c)
+
+
 We have 9 events of which one is a warning
 
 By exploring these 9 events, we can notice that the user created some script blocks.
