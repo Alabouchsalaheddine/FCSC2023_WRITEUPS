@@ -1,4 +1,10 @@
 # FCSC2023_WRITEUPS
+
+<p align="center">
+  <img src="https://github.com/Alabouchsalaheddine/FCSC2023_WRITEUPS/assets/26192792/2370b968-7848-4b70-a6de-68c256794678">
+</p>
+
+
 For several years, France has participated in the European Cybersecurity Challenge (ECSC), a European competition, which opposes around twenty national teams made up of young ethical hackers, aged 14 to 25. In order to identify and select the best French players, ANSSI organizes the France Cybersecurity Challenge (FCSC).
 
 We participated in the 2023 edition of FCSC that took place from 21 to 30 April 2023.
