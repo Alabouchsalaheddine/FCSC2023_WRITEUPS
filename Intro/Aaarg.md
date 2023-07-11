@@ -7,8 +7,8 @@ You must display the flag whatever the means used!
 We are dealing with an .elf file.
 
 By reading the file with IDA and jumping to pseudo code,  we can easily notice the begining of the flag.
-![Capture d'écran 2023-05-13 175808](https://github.com/Alabouchsalaheddine/FCSC2023_WRITEUPS/assets/26192792/dec0012d-d7f1-4f87-bd3e-4ef79c931419)
-![Capture d'écran 2023-05-13 175447](https://github.com/Alabouchsalaheddine/FCSC2023_WRITEUPS/assets/26192792/7e6af61b-c9a6-469e-b025-c982de7d72f0)
+![Capture d'écran 2023-05-13 175808](https://github.com/Alabouchsalaheddine/FCSC2023_WRITEUPS/blob/main/screenshots/Screenshot_2023-05-13_175808.png)
+![Capture d'écran 2023-05-13 175447](https://github.com/Alabouchsalaheddine/FCSC2023_WRITEUPS/blob/main/screenshots/Screenshot_2023-05-13_175447.png)
 
 
 By copying the hexadecimal values and converting them to text with the following script we find the flag.
