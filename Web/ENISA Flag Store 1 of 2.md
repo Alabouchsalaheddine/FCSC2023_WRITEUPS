@@ -35,13 +35,11 @@ User accounts are reset every hour.
 
 The website starts with a basic authentication portal. With access to a Sign Up link.
 
-![image](https://github.com/Alabouchsalaheddine/FCSC2023_WRITEUPS/assets/13770404/4f66e3ec-9d2c-45b6-a4b0-8515d809d2cf)
-![image](https://github.com/Alabouchsalaheddine/FCSC2023_WRITEUPS/assets/13770404/05e87c06-b024-40c3-b263-a8cdc637164c)
+![There was here a screenshot of the web app that we lost when changing the github repository from private to public](https://github.com/Alabouchsalaheddine/FCSC2023_WRITEUPS/assets/13770404/4f66e3ec-9d2c-45b6-a4b0-8515d809d2cf)
+
 
 Any combinition of Country Token and Country different than France isn't accepted and an error is generated. Using the provided token with France as country give us access to this portal once logged in.
 
-![image](https://github.com/Alabouchsalaheddine/FCSC2023_WRITEUPS/assets/13770404/7fec1ba5-41a9-4b33-ba6b-d32436fefd0b)
-![image](https://github.com/Alabouchsalaheddine/FCSC2023_WRITEUPS/assets/13770404/789bc801-68da-4eb8-8174-d2228f142cb3)
 
 None of those lines contains the researched flag.
 We must find a way to connect as a french competitor and at the same time find all flags.
@@ -654,9 +652,6 @@ As described in the comments added here (could be searched in this page):
 
 The value of country should be **fr' or 1=1 --** to inject sql code to see all countries flags.
 
-![image](https://github.com/Alabouchsalaheddine/FCSC2023_WRITEUPS/assets/13770404/1791b953-8a03-4eb2-be5d-1405bc368528)
-
 Once logged in, listing the flags will show you first the target flag 😉
 
-![image](https://github.com/Alabouchsalaheddine/FCSC2023_WRITEUPS/assets/13770404/7bea3b34-039f-49d2-a2e5-74d61bfa0609)
 
