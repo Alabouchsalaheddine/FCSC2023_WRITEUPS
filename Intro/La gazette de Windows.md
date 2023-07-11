@@ -10,7 +10,7 @@ Search for Windows Event Viewer and open it.
 
 Open the Microsoft-Windows-PowerShell4Operational.evtx file.
 
-![Capture d'écran 2023-05-12 024513](https://github.com/Alabouchsalaheddine/FCSC2023_WRITEUPS/assets/26192792/c930a561-6a15-4664-a49d-f1e646f5952c)
+![Capture d'écran 2023-05-12 024513](https://github.com/Alabouchsalaheddine/FCSC2023_WRITEUPS/blob/main/screenshots/Screenshot_2023-05-12_024513.png)
 
 
 We have 9 events of which one is a warning
@@ -84,6 +84,6 @@ $ScriptBlock = {
 }
 Invoke-Command -ScriptBlock $ScriptBlock
 ```
-![screenshot](https://github.com/Alabouchsalaheddine/FCSC2023_WRITEUPS/assets/26192792/784347f3-16f1-4c9a-b892-34d97d7779eb)
+![screenshot](https://github.com/Alabouchsalaheddine/FCSC2023_WRITEUPS/blob/main/screenshots/events_result.png)
 
 After the execution, we have the flag : FCSC{98c98d98e5a546dcf6b1ea6e47602972ea1ce9ad7262464604753c4f79b3abd3}                                                  
