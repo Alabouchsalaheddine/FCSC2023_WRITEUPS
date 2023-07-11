@@ -1,7 +1,7 @@
 # FCSC2023_WRITEUPS
 
 <p align="center">
-  <img src="https://github.com/Alabouchsalaheddine/FCSC2023_WRITEUPS/assets/26192792/2370b968-7848-4b70-a6de-68c256794678">
+  <img src="https://github.com/Alabouchsalaheddine/FCSC2023_WRITEUPS/blob/main/screenshots/2020-fcsc-logo_min.jpg">
 </p>
 
 
@@ -20,8 +20,8 @@ Despite being busy on other things during the last four days of the competition,
 | ALABOUCH Salah-Eddine      | sea | 250/1362 |
 | LARAQUI Omar      | Omaroid      |   394/1362 |
 
-![Classement_sea](https://github.com/Alabouchsalaheddine/FCSC2023_WRITEUPS/assets/26192792/64b2f264-5409-44f3-aec4-3cc7626b6a9c)
-![Classement_omaroid](https://github.com/Alabouchsalaheddine/FCSC2023_WRITEUPS/assets/26192792/2043fa07-0c03-49ac-b6e9-0275fcba414f)
+![Classement_sea](https://github.com/Alabouchsalaheddine/FCSC2023_WRITEUPS/blob/main/screenshots/Classement_sea.png)
+![Classement_omaroid](https://github.com/Alabouchsalaheddine/FCSC2023_WRITEUPS/blob/main/screenshots/Classement_omaroid.png)
 
 
 Here's to the next year ❤️
